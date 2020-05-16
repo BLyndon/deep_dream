@@ -9,6 +9,6 @@ or edit the BASE_PATH in cell no. 2
 
 ```python
 import sys
-BASE_PATH = '/content/drive/My Drive/Colab Notebooksdeep_dream/deep_dream-master'
+BASE_PATH = '/content/drive/My Drive/Colab Notebooks/deep_dream'
 sys.path.append(BASE_PATH)
 ```
