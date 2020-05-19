@@ -12,3 +12,9 @@ import sys
 BASE_PATH = '/content/drive/My Drive/Colab Notebooks/deep_dream'
 sys.path.append(BASE_PATH)
 ```
+
+## Result
+
+![](input/IMG_1.jpg)
+
+![](output/20200515-102934_IMG_1.jpg)
